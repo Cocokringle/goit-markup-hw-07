@@ -535,7 +535,7 @@ img {
 }
 
 .modal-form__field textarea::-webkit-input-placeholder {
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -545,7 +545,7 @@ img {
 }
 
 .modal-form__field textarea:-ms-input-placeholder {
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -555,7 +555,7 @@ img {
 }
 
 .modal-form__field textarea::-ms-input-placeholder {
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
@@ -565,7 +565,7 @@ img {
 }
 
 .modal-form__field textarea::placeholder {
-  font-family: Roboto;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 12px;
